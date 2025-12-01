@@ -4,11 +4,10 @@ Este es el repositorio de una aplicación web de gestión y reserva de libros, d
 Este proyecto ha sido revivido y actualizado para funcionar con las versiones modernas de PHP y bases de datos MySQL, además de recibir una mejora estética con CSS para un diseño más limpio.
 
 ✨ Características Principales
-Gestión de Catálogo: Permite añadir, editar y eliminar libros del inventario.
+Gestión de Catálogo: Permite añadir y eliminar libros del inventario.
 
 Sistema de Reserva: Los usuarios pueden reservar libros disponibles.
 
-Búsqueda Rápida: Funcionalidad de búsqueda básica por título o autor.
 
 Diseño Actualizado: Interfaz mejorada con CSS moderno para una mejor experiencia de usuario.
 
