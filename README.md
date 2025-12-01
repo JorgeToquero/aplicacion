@@ -1,8 +1,4 @@
 
-¡Excelente! Con la documentación de la aplicación web de reserva de libros, podemos crear un README.md muy preciso que refleje fielmente la funcionalidad, los roles de usuario y los pasos de instalación.
-
-Aquí tienes el README.md preparado en base a tu documentación:
-
 📚 Aplicación Web de Reserva de Libros 🚀
 Este repositorio contiene el código de una aplicación web diseñada para la reserva y gestión de un catálogo de libros. La aplicación soporta tres roles de usuario distintos para un control de acceso granular.
 
@@ -83,5 +79,5 @@ titulo, isbn, categoría, autor, editorial.
 
 Reserva_libros	login, isbn, fecha.
 🧑‍💻 Autor
-[https://github.com/JorgeToquero/aplicacion] - Tu Perfil de GitHub
+[https://github.com/JorgeToquero/Reserva-Libros] - Tu Perfil de GitHub
 
