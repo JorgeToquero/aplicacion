@@ -75,6 +75,10 @@ Login, password, rol, nombre, apellidos.
 Libros	
 
 titulo, isbn, categoría, autor, editorial.
+<img width="1441" height="980" alt="Captura de pantalla 2025-12-01 222844" src="https://github.com/user-attachments/assets/869e1964-7072-472e-830f-d2c269797329" />
+
+
+
 
 Reserva_libros	login, isbn, fecha.
 🧑‍💻 Autor
